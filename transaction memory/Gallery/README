@@ -1,13 +1,15 @@
-0. There are 9 classes you can choose from for testing
+## Testing
+There are nine classes you can choose from for testing
 You can either,
-a. change it in "Shooter.cpp" line 24, varaible "char *class_name" by hand
-b. enter parameters when running
+a. Change it in ```Shooter.Cpp``` line 24, variable ```char *class_name``` by hand
+b. Enter parameters when running
 
-1. How to compile
-$ make clean
-$ make
+## Compile
+```make clean```
+```make```
 
-2. How to run
-./Shooter -r 100 -b 100 -n 5 [-m coarse | coarse2 | coarse_clean | fine | fine2  | fine_clean  | tm  | tm2 | tm_clean]
+## Run
+```./Shooter -r 100 -b 100 -n 5 [-m coarse | coarse2 | coarse_clean | fine | fine2  | fine_clean  | tm  | tm2 | tm_clean]```
 
-If there is any question about compiling and runnng, please contact: feip@sfu.ca
+## Contact
+If there is any question about compiling and running, please contact: feip@sfu.ca
